@@ -1,6 +1,6 @@
-US 2 = Shadowsocks,147.182.166.157,62028,chacha20-ietf-poly1305,"qamUUWIvsVUm",fast-open=false,udp=false
-US 1 = Shadowsocks,147.182.166.157,62028,chacha20-ietf-poly1305,"qamUUWIvsVUm",fast-open=false,udp=false
-SG 2 = Shadowsocks,128.199.187.100,58225,chacha20-ietf-poly1305,"ifMoY3457bIE",fast-open=false,udp=false
-SG 1 = Shadowsocks,128.199.187.100,58225,chacha20-ietf-poly1305,"iBw7uR5KvQXa",fast-open=false,udp=false
+US 🇺🇸1 = Shadowsocks,147.182.166.157,62028,chacha20-ietf-poly1305,"qamUUWIvsVUm",fast-open=false,udp=false
+US 🇺🇸2 = Shadowsocks,147.182.166.157,62028,chacha20-ietf-poly1305,"qamUUWIvsVUm",fast-open=false,udp=false
+SG 🇸🇬1 = Shadowsocks,128.199.187.100,58225,chacha20-ietf-poly1305,"ifMoY3457bIE",fast-open=false,udp=false
+SG 🇸🇬2 = Shadowsocks,128.199.187.100,58225,chacha20-ietf-poly1305,"iBw7uR5KvQXa",fast-open=false,udp=false
 🇸🇬 OVH = shadowsocks,51.79.178.17,4444,aes-256-gcm,"pKEW8JPByTVTLtM",fast-open=false,udp=false
 🇺🇸 GT Host = shadowsocks,38.68.135.239,3306,aes-256-gcm,"Y6R9pAtvxxzmGC",fast-open=false,udp=false
